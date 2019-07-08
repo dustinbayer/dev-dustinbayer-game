@@ -1,12 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\public",
-    "\\src",
-    "\\src\\components",
-    "\\src\\containers",
-    "\\src\\reducers"
+    ""
   ],
-  "SelectedNode": "\\src\\components\\Canvas.jsx",
   "PreviewInSolutionExplorer": false
 }
